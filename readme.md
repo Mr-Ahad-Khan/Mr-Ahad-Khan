@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahad Khan</h1>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Ahad%20Khan&fontSize=50&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EB4,60:c084fc,100:818cf8&height=210&section=header&text=Ahad%20Khan&fontSize=56&fontAlignY=40&fontColor=ffffff&fontFamily=Nunito&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20MCA Student%20%7C%20Event%20Host&descSize=17&descAlignY=63&descColor=f0e6ff"/>
 </p>
 
 <p align="center">
