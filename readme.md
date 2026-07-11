@@ -109,6 +109,7 @@
 </td>
 </tr>
 </table>
+
 ## 💭 Dev Quote
 
 <p align="center">
