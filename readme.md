@@ -76,39 +76,31 @@
 
 ---
 
-## 🏆 3D Contribution Graph
-
-![](https://raw.githubusercontent.com/Mr-Ahad-Khan/Mr-Ahad-Khan/main/profile-3d-contrib/profile-night-rainbow.svg)
-
 ## 📊 GitHub Summary
+
+<div align="center">
 
 <table>
 <tr>
-<td>
-
+<td align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mr-Ahad-Khan&theme=github_dark" />
-
 </td>
-<td>
-
+<td align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mr-Ahad-Khan&theme=github_dark" />
-
 </td>
 </tr>
 
 <tr>
-<td>
-
+<td align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mr-Ahad-Khan&theme=github_dark" />
-
 </td>
-<td>
-
+<td align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mr-Ahad-Khan&theme=github_dark&utcOffset=6" />
-
 </td>
 </tr>
 </table>
+
+</div>
 
 ## 💭 Dev Quote
 
