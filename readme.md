@@ -13,7 +13,7 @@
 
 🎓 MCA Student  
 💻 Aspiring Full Stack Developer  
-🚀 Passionate about building scalable web applications
+🚀 Passionate about building scalable web applications  
 📋 Experienced with Jira for Agile Project Management and Issue Tracking
 
 ## 💗 Tech Stack
