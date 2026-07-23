@@ -1,4 +1,8 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ahad%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=MERN%20Full%20Stack%20Developer%20%7C%20Event%20Host&descSize=24&descAlign=50&descAlignY=58&animation=twinkling" alt="Ahad Khan Banner" /> 
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ahad%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=MERN%20Full%20Stack%20Developer%20%7C%20Event%20Host%20%28Anchor%29&descSize=24&descAlign=50&descAlignY=58&animation=twinkling"
+    alt="Ahad Khan Banner"
+  />
 </p>
 
 <p align="center">
