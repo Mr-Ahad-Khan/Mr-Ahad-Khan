@@ -26,7 +26,7 @@
 
 | 💻 Languages | 🌐 Frontend | ⚙️ Backend & Database | 🛠️ Tools |
 |:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=c,python,js&perline=3" /> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&perline=3" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=3" /> | <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,postman,thunderclient&perline=3" /> |
+| <img src="https://skillicons.dev/icons?i=c,python,js&perline=3" /> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&perline=3" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=3" /> | <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,postman&perline=3" /><br><img src="https://img.shields.io/badge/Thunder%20Client-FF6C37?style=flat-square&logo=thunderclient&logoColor=white" height="48" /> |
 
 </div>
 
