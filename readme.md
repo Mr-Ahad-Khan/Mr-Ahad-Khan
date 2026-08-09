@@ -26,7 +26,7 @@
 
 | 💻 Languages | 🌐 Frontend | ⚙️ Backend & Database | 🛠️ Tools |
 |:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=c,python,js&perline=3" /> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&perline=3" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,jwt&perline=3" /> | <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,postman&perline=3" /> |
+| <img src="https://skillicons.dev/icons?i=c,python,js&perline=3" /> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&perline=3" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=3" /><br><img src="https://go-skill-icons.vercel.app/api/icons?i=jwt" /> | <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,postman&perline=3" /> |
 
 </div>
 
