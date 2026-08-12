@@ -51,7 +51,7 @@
 ## 📜 Certifications
 
 - Web Development Mentorship Course – Launched Global (IIT Kharagpur)
-- MERN Stack Summer Trainee | SRDT Pvt. Ltd  add as
+- MERN Stack Summer Trainee – SRDT Pvt. Ltd
 - LibreOffice Calc & RDBMS PostgreSQL – **IIT Bombay**
 - Cyber Security Course – Lucknow Public College of Professional Studies
 
