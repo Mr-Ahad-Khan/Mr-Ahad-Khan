@@ -51,16 +51,17 @@
 ## 📜 Certifications
 
 - Web Development Mentorship Course – Launched Global (IIT Kharagpur)
-- LibreOffice Calc – IIT Bombay
-- RDBMS PostgreSQL – IIT Bombay
+- MERN Stack Summer Trainee | SRDT Pvt. Ltd  add as
+- LibreOffice Calc & RDBMS PostgreSQL – **IIT Bombay**
 - Cyber Security Course – Lucknow Public College of Professional Studies
 
 ## 🏆 Activities
 
 - Workshops & Seminars
-- Hackathons
+- Hackathons as Team Leader
 - Short-Term Courses
 - Academic & Personal Projects
+- Communication Skills
 
 ## 🌟 GitHub Stats
 
