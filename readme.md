@@ -88,6 +88,11 @@
 
 <div align="center">
 
+
+## 🏆 3D Contribution Graph
+
+![](https://raw.githubusercontent.com/Mr-Ahad-Khan/Mr-Ahad-Khan/main/profile-3d-contrib/profile-night-rainbow.svg)
+
 ## 🌐 Connect
 
 <p align="center">
@@ -96,11 +101,7 @@
 
 ---
 
-## 🏆 3D Contribution Graph
 
-![](https://raw.githubusercontent.com/Mr-Ahad-Khan/Mr-Ahad-Khan/main/profile-3d-contrib/profile-night-rainbow.svg)
-
-<!--
 ## 📊 GitHub Summary
 
 <div align="center">
@@ -126,7 +127,7 @@
 </table>
 
 </div>
--->
+
 
 ## 💭 Dev Quote
 
