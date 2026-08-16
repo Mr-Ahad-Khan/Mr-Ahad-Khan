@@ -77,6 +77,16 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Ahad-Khan&theme=tokyo-night)
 
+---
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Mr-Ahad-Khan&theme=radical&no-frame=true&no-bg=true&margin-w=9" width="80%" />
+</p>
+
+---
+
+<div align="center">
 
 ## 🌐 Connect
 
