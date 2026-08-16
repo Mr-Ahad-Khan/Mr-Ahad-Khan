@@ -101,7 +101,7 @@
 
 ---
 
-
+<!--
 ## 📊 GitHub Summary
 
 <div align="center">
@@ -127,7 +127,7 @@
 </table>
 
 </div>
-
+-->
 
 ## 💭 Dev Quote
 
