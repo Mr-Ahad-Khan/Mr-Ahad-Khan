@@ -73,11 +73,13 @@
 
 ---
 
+<!--
 ## 📈 Activity Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Ahad-Khan&theme=tokyo-night)
 
 ---
+-->
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
