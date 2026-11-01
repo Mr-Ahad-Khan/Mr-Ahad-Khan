@@ -25,26 +25,26 @@
 
 <div align="center">
 
-<table width="78%" border="1" cellpadding="4" cellspacing="0">
+<table width="100%" border="1" cellpadding="6" cellspacing="0">
 <tr>
 <td width="50%" align="center" valign="top">
 <h5>🛠️ Tools</h5>
-<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,postman&perline=3" width="72" alt="Git, GitHub, Android Studio, VS Code, and Postman logos" />
+<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,postman&perline=3" width="80" alt="Git, GitHub, Android Studio, VS Code, and Postman logos" />
 </td>
 <td width="50%" align="center" valign="top">
 <h5>🌐 Frontend</h5>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite&perline=3" width="72" alt="HTML, CSS, React, Tailwind, Bootstrap, and Vite logos" /><br>
-<img src="https://cdn.simpleicons.org/capacitor/119EFF" width="14" height="14" alt="Capacitor logo" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite&perline=3" width="80" alt="HTML, CSS, React, Tailwind, Bootstrap, and Vite logos" /><br>
+<img src="https://cdn.simpleicons.org/capacitor/119EFF" width="16" height="16" alt="Capacitor logo" />
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
 <h5>⚙️ Backend &amp; Database</h5>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=3" width="72" alt="Node.js, Express, MongoDB, and MySQL logos" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=3" width="80" alt="Node.js, Express, MongoDB, and MySQL logos" />
 </td>
 <td width="50%" align="center" valign="top">
 <h5>💻 Languages</h5>
-<img src="https://skillicons.dev/icons?i=c,python,js&perline=3" width="72" alt="C, Python, and JavaScript logos" />
+<img src="https://skillicons.dev/icons?i=c,python,js&perline=3" width="80" alt="C, Python, and JavaScript logos" />
 </td>
 </tr>
 </table>
