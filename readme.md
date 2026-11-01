@@ -27,44 +27,25 @@
 
 <table width="100%" border="1" cellpadding="6" cellspacing="0">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <h5>🛠️ Tools</h5>
-<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,postman&perline=3" width="80" alt="Git, GitHub, Android Studio, VS Code, and Postman logos" />
+<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,postman&perline=3" width="80" alt="Git, GitHub, Android Studio, VS Code, and Postman logos" loading="eager" />
 </td>
-<td width="50%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <h5>🌐 Frontend</h5>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite&perline=3" width="80" alt="HTML, CSS, React, Tailwind, Bootstrap, and Vite logos" /><br>
-<img src="https://cdn.simpleicons.org/capacitor/119EFF" width="16" height="16" alt="Capacitor logo" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite&perline=3" width="80" alt="HTML, CSS, React, Tailwind, Bootstrap, and Vite logos" loading="eager" /><br>
+<img src="https://cdn.simpleicons.org/capacitor/119EFF" width="16" height="16" alt="Capacitor logo" loading="eager" />
 </td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <h5>⚙️ Backend &amp; Database</h5>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=3" width="80" alt="Node.js, Express, MongoDB, and MySQL logos" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=3" width="80" alt="Node.js, Express, MongoDB, and MySQL logos" loading="eager" />
 </td>
-<td width="50%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <h5>💻 Languages</h5>
-<img src="https://skillicons.dev/icons?i=c,python,js&perline=3" width="80" alt="C, Python, and JavaScript logos" />
+<img src="https://skillicons.dev/icons?i=c,python,js&perline=3" width="80" alt="C, Python, and JavaScript logos" loading="eager" />
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 🤖 AI Tools & Assistants
-
-<div align="center">
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Bolt.ai](https://img.shields.io/badge/Bolt.ai-000000?style=for-the-badge&logo=stackblitz&logoColor=white)
 
 </div>
 
@@ -82,6 +63,23 @@
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Aiven](https://img.shields.io/badge/Aiven-FF4F8B?style=for-the-badge&logo=aiven&logoColor=white)
+
+</div>
+
+---
+
+## 🤖 AI Tools & Assistants
+
+<div align="center">
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Bolt.ai](https://img.shields.io/badge/Bolt.ai-000000?style=for-the-badge&logo=stackblitz&logoColor=white)
 
 </div>
 
