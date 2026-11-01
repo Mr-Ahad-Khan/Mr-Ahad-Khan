@@ -18,6 +18,7 @@
 🎓 MCA Student  
 💻 Full Stack Developer  
 🚀 Passionate about building scalable web applications  
+📱 Building cross-platform apps with Capacitor and offline-first websites
 📋 Experienced with Jira for Agile Project Management and Issue Tracking
 
 ## 💗 Tech Stack
