@@ -1,7 +1,7 @@
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ahad%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=MERN%20Full%20Stack%20Developer%20%7C%20Event%20Host%20%28Anchor%29&descSize=24&descAlign=50&descAlignY=58&animation=twinkling"
-    alt="Ahad Khan Banner"
+    alt="Ahad Khan profile banner"
   />
 </p>
 
@@ -25,9 +25,29 @@
 
 <div align="center">
 
-|                            💻 Languages                            |                                                                                            🌐 Frontend                                                                                             |                                ⚙️ Backend & Database                                |                                            🛠️ Tools                                            |
-| :----------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
-| <img src="https://skillicons.dev/icons?i=c,python,js&perline=3" alt="C, Python, and JavaScript logos" /> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite&perline=3" alt="HTML, CSS, React, Tailwind, Bootstrap, and Vite logos" /><br><img src="https://cdn.simpleicons.org/capacitor/119EFF" width="40" height="40" alt="Capacitor logo" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=3" alt="Node.js, Express, MongoDB, and MySQL logos" /> | <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,postman&perline=3" alt="Git, GitHub, Android Studio, VS Code, and Postman logos" /> |
+<table width="78%" border="1" cellpadding="4" cellspacing="0">
+<tr>
+<td width="50%" align="center" valign="top">
+<h5>🛠️ Tools</h5>
+<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,postman&perline=3" width="72" alt="Git, GitHub, Android Studio, VS Code, and Postman logos" />
+</td>
+<td width="50%" align="center" valign="top">
+<h5>🌐 Frontend</h5>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite&perline=3" width="72" alt="HTML, CSS, React, Tailwind, Bootstrap, and Vite logos" /><br>
+<img src="https://cdn.simpleicons.org/capacitor/119EFF" width="14" height="14" alt="Capacitor logo" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<h5>⚙️ Backend &amp; Database</h5>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=3" width="72" alt="Node.js, Express, MongoDB, and MySQL logos" />
+</td>
+<td width="50%" align="center" valign="top">
+<h5>💻 Languages</h5>
+<img src="https://skillicons.dev/icons?i=c,python,js&perline=3" width="72" alt="C, Python, and JavaScript logos" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -152,7 +172,7 @@
 ## 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer quote" />
 </p>
 
 <p align="center">
