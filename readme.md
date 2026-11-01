@@ -6,28 +6,45 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=MCA+Student;MERN+Full+Stack+Developer;React+Developer;Learning+Django;Hackathon+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=MCA+Student;MERN+Full+Stack+Developer;React+Developer;Django;Hackathon+Enthusiast;Offline+First+Websites:Mobile+Apps" width="100%" alt="MCA student, MERN full stack developer, React developer, Django learner, hackathon enthusiast, and offline-first app developer" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Mr-Ahad-Khan&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Mr-Ahad-Khan&style=for-the-badge" alt="Profile views" />
 </p>
 
 # 💫 About Me
 
-🎓 MCA Student  
-💻 Full Stack Developer  
-🚀 Passionate about building scalable web applications  
-📱 Building cross-platform apps with Capacitor and offline-first websites
+🎓 MCA Student<br>
+💻 Full Stack Developer<br>
+🚀 Passionate about building scalable web applications<br>
+📱 Building cross-platform apps with Capacitor and offline-first websites<br>
 📋 Experienced with Jira for Agile Project Management and Issue Tracking
 
 ## 💗 Tech Stack
 
 <div align="center">
 
-| 💻 Languages | 🌐 Frontend | ⚙️ Backend & Database | 🛠️ Tools |
-|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=c,python,js&perline=3" /> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite&perline=3" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=3" /> | <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,postman&perline=3" /> |
+|                            💻 Languages                            |                                                                                            🌐 Frontend                                                                                             |                                ⚙️ Backend & Database                                |                                            🛠️ Tools                                            |
+| :----------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
+| <img src="https://skillicons.dev/icons?i=c,python,js&perline=3" alt="C, Python, and JavaScript logos" /> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite&perline=3" alt="HTML, CSS, React, Tailwind, Bootstrap, and Vite logos" /><br><img src="https://cdn.simpleicons.org/capacitor/119EFF" width="40" height="40" alt="Capacitor logo" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=3" alt="Node.js, Express, MongoDB, and MySQL logos" /> | <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,postman&perline=3" alt="Git, GitHub, Android Studio, VS Code, and Postman logos" /> |
+
+</div>
+
+---
+
+## 🤖 AI Tools & Assistants
+
+<div align="center">
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Bolt.ai](https://img.shields.io/badge/Bolt.ai-000000?style=for-the-badge&logo=stackblitz&logoColor=white)
 
 </div>
 
@@ -43,6 +60,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Aiven](https://img.shields.io/badge/Aiven-FF4F8B?style=for-the-badge&logo=aiven&logoColor=white)
 
 </div>
@@ -68,7 +86,7 @@
 
 <div align="center">
 
-<img width="55%" src="https://streak-stats.demolab.com?user=Mr-Ahad-Khan&theme=synthwave&hide_border=true&ring=FF6EB4&fire=c084fc&currStreakLabel=FF6EB4&sideLabels=c084fc&dates=aaaacc&background=0d0d1a&stroke=FF6EB4"/>
+<img width="90%" height="auto" src="https://streak-stats.demolab.com?user=Mr-Ahad-Khan&theme=synthwave&hide_border=true&ring=FF6EB4&fire=c084fc&currStreakLabel=FF6EB4&sideLabels=c084fc&dates=aaaacc&background=0d0d1a&stroke=FF6EB4" alt="GitHub contribution streak statistics" />
 
 </div>
 
@@ -77,29 +95,28 @@
 <!--
 ## 📈 Activity Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Ahad-Khan&theme=tokyo-night)
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Ahad-Khan&theme=tokyo-night)
 
 ---
 -->
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Mr-Ahad-Khan&theme=radical&no-frame=true&no-bg=true&margin-w=9" width="80%" />
+  <img src="https://github-trophies.vercel.app/?username=Mr-Ahad-Khan&theme=radical&no-frame=true&no-bg=true&margin-w=9" width="100%" height="auto" alt="GitHub trophies" />
 </p>
 
 ---
 
 <div align="center">
 
-
 ## 🏆 3D Contribution Graph
 
-![](https://raw.githubusercontent.com/Mr-Ahad-Khan/Mr-Ahad-Khan/main/profile-3d-contrib/profile-night-rainbow.svg)
+![3D GitHub contribution graph](https://raw.githubusercontent.com/Mr-Ahad-Khan/Mr-Ahad-Khan/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ## 🌐 Connect
 
 <p align="center">
-<a href="https://github.com/Mr-Ahad-Khan"><img src="https://img.shields.io/badge/GitHub-FF6EB4?style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://linkedin.com/in/mr-ahad-khan"><img src="https://img.shields.io/badge/LinkedIn-c084fc?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:ahad998867@gmail.com"><img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Mr-Ahad-Khan"><img src="https://img.shields.io/badge/GitHub-FF6EB4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a><a href="https://linkedin.com/in/mr-ahad-khan"><img src="https://img.shields.io/badge/LinkedIn-c084fc?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a><a href="mailto:ahad998867@gmail.com"><img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ahad Khan" /></a>
 </p>
 
 ---
@@ -139,5 +156,5 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient" width="100%" height="auto" alt="Profile footer banner" />
 </p>
