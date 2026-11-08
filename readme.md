@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=MCA+Student;MERN+Full+Stack+Developer;React+Developer;Django;Hackathon+Enthusiast;Offline+First+Websites:Mobile+Apps" width="100%" alt="MCA student, MERN full stack developer, React developer, Django learner, hackathon enthusiast, and offline-first app developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=MCA+Student;MERN+Full+Stack+Developer;React+Developer;Django;Hackathon+Enthusiast;Offline+First+Websites;Mobile+Apps" width="100%" alt="MCA student, MERN full stack developer, React developer, Django learner, hackathon enthusiast, and offline-first app developer" />
 </p>
 
 <p align="center">
